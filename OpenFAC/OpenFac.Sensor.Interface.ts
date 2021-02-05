@@ -1,3 +1,11 @@
+/* 
+[POR] Criado por Alexandre Henzen
+Atualiza o estado do sensor
+
+[ENG] Created by Alexandre Henzen
+Updates the sensor status
+*/
+
 export enum SensorState {
     SensorDown,
     SensorUp,

@@ -1,3 +1,15 @@
+/* 
+[POR] Criado por Alexandre Henzen
+Cria o teclado baseado em um dicionário pré-estabelecido
+O Script chama os seguintes arquivos .ts:
+OpenFac.Keyboard.Interface.
+
+[ENG] Created by Alexandre Henzen
+Creates a keyboard based on a predetermined dictionary
+Script calls the following .ts files:
+OpenFac.Keyboard.Interface.
+*/
+
 import { IOpenFacKeyboard } from './OpenFac.Keyboard.Interface';
 
 export class OpenFacKeyboardFactory {
